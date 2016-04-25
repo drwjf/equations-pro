@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 419,
+                        "endColumn": 65,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 50,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 40,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 266,
+                        "endColumn": 37,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 39,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 157,
+                        "endColumn": 36,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 85,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 336,
+                        "endColumn": 82,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 34,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 304,
+                        "endColumn": 31,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 39,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 194,
+                        "endColumn": 36,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 37,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 231,
+                        "endColumn": 34,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 56,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 103,
+                        "endColumn": 53,
+                        "endOffset": 155
+                    }
+                }
+            }
+        ]
+    }
+]

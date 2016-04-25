@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5061878b70c58123a0088f179bada0d68ada2a93">
+        <dex dex="/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_90d1c9b437d9ca6f742251f48beafc7c3790cdb6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5d5f1e46a56f507a07822b94fb44433aaf5ccc4e">
+        <dex dex="/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_213445e28b5cb66611236fc997364bd33560f332/classes.dex" />
+    </item>
+
+</items>

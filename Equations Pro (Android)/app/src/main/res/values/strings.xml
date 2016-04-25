@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Equations Pro</string>
+	<string name="to_level_select">Change Level</string>
+	<string name="check">Check</string>
+	<string name="reset">Reset</string>
+	<string name="skip">Skip</string>
+	<string name="arrow">yields</string>
+	<string name="plus">+</string>
+	<string name="instructions">Tap on a compound to change its coefficient.</string>
+	<string name="anywhere">Tap anywhere to continue&#8230;</string>
+</resources>

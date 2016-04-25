@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg.jpeg",
+        "source": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/drawable-xhdpi/bg.jpeg"
+    },
+    {
+        "merged": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/instructions.png",
+        "source": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/drawable-xhdpi/instructions.png"
+    },
+    {
+        "merged": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/arrow.png",
+        "source": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/drawable-xhdpi/arrow.png"
+    },
+    {
+        "merged": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/icon.png",
+        "source": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/drawable-xhdpi/icon.png"
+    }
+]

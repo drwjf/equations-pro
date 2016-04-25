@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/res/merged/debug/raw/pop.wav",
+        "source": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/raw/pop.wav"
+    },
+    {
+        "merged": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/res/merged/debug/raw/hit.wav",
+        "source": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/raw/hit.wav"
+    },
+    {
+        "merged": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/build/intermediates/res/merged/debug/raw/buzz.wav",
+        "source": "/Users/neelsomani/StudioProjects/Equations Pro (Android)/app/src/main/res/raw/buzz.wav"
+    }
+]
