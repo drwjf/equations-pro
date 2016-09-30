@@ -8,11 +8,17 @@
 	<string>${PRODUCT_NAME}</string>
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
 	<key>CFBundleIconFile</key>
 	<string></string>
 	<key>CFBundleIconFiles</key>
 	<array>
 		<string>Icon.png</string>
+		<string>Icon-76.png</string>
+		<string>Icon-120.png</string>
+		<string>Icon-152.png</string>
+		<string>Icon-167.png</string>
 		<string>Icon@2x.png</string>
 		<string>Icon-72.png</string>
 		<string>Icon-Small-50.png</string>
@@ -26,6 +32,10 @@
 			<key>CFBundleIconFiles</key>
 			<array>
 				<string>Icon.png</string>
+				<string>Icon-76.png</string>
+				<string>Icon-120.png</string>
+				<string>Icon-152.png</string>
+				<string>Icon-167.png</string>
 				<string>Icon@2x.png</string>
 				<string>Icon-72.png</string>
 				<string>Icon-Small-50.png</string>
@@ -37,7 +47,7 @@
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.neelsomani.Equations</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -45,19 +55,17 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.11</string>
+	<string>1.15</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.11</string>
+	<string>3</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
-	<key>UILaunchImageFile</key>
-	<string>Default</string>
-	<key>UILaunchImageFile~ipad</key>
-	<string>Default-ipad</string>
-	<key>UILaunchImageFile~iphone</key>
-	<string>Default@2x</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreenInterface</string>
 	<key>UIMainStoryboardFile</key>
 	<string>MainStoryboardiPhone</string>
 	<key>UIMainStoryboardFile~ipad</key>
@@ -70,10 +78,14 @@
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
 </dict>

@@ -344,10 +344,10 @@ BOOL isPad() {
 */
 
 - (void)setup_format {
-    if (!isPad()){
-        SCREEN_WIDTH = 320;
-        SCREEN_HEIGHT = 480;
-    }
+    //if (!isPad()){
+        SCREEN_WIDTH = [UIScreen mainScreen].bounds.size.width;
+        SCREEN_HEIGHT = [UIScreen mainScreen].bounds.size.height - 100;
+    //}
     reactantsArray = [NSMutableArray arrayWithCapacity:5]; //initialize reactants array
     plusArray = [NSMutableArray arrayWithCapacity:9]; //initialize plus array
     reactantCoefficients = [NSMutableArray arrayWithCapacity:5];
@@ -513,7 +513,7 @@ BOOL isPad() {
         [[eq_reactants objectAtIndex:eq_number] addObject:@"H₂SO₄"];
         [[eq_products objectAtIndex:eq_number] addObject:@"Ag₂SO₄"];
         [[eq_products objectAtIndex:eq_number] addObject:@"SO₂"];
-        [[eq_products objectAtIndex:eq_number] addObject:@"H₂0"]; // fill arrays
+        [[eq_products objectAtIndex:eq_number] addObject:@"H₂O"]; // fill arrays
         
         num_reactants[eq_number] = 2;
         num_products[eq_number] = 3;
@@ -531,7 +531,7 @@ BOOL isPad() {
         [[eq_reactants objectAtIndex:eq_number] addObject:@"HNO₃"];
         [[eq_products objectAtIndex:eq_number] addObject:@"Cu(NO₃)₂"];
         [[eq_products objectAtIndex:eq_number] addObject:@"NO"];
-        [[eq_products objectAtIndex:eq_number] addObject:@"H₂0"]; // fill arrays
+        [[eq_products objectAtIndex:eq_number] addObject:@"H₂O"]; // fill arrays
         
         num_reactants[eq_number] = 2;
         num_products[eq_number] = 3;

@@ -63,7 +63,7 @@
 }
 
 - (IBAction)about:(id)sender {
-    UIAlertView *author = [[UIAlertView alloc] initWithTitle: @"Feedback?" message: @"Equations was made by Neel Somani from Gale Ranch Middle School. Any suggestions, questions, or complaints can be emailed to admin@neelsomani.com." delegate: self cancelButtonTitle: @"Got it!" otherButtonTitles: nil];
+    UIAlertView *author = [[UIAlertView alloc] initWithTitle: @"Feedback?" message: @"Equations was made by Neel Somani from Gale Ranch Middle School. Any suggestions, questions, or complaints can be emailed to neel@berkeley.edu." delegate: self cancelButtonTitle: @"Got it!" otherButtonTitles: nil];
 	
 	[author show];
 }
